@@ -18,7 +18,7 @@ Solo tendremos que agregar la IP o en su defecto un Dominio a verificar el estad
 Una vez puesta la direccion ip o el dominio solo basta con darle **Enter** y el codigo empezara a funcionar:
 
 <p align="center">
-<img src="cdn/bvp2.jpg"
+<img src="cdn/vvp2.jpg"
         alt="Basvar Ping"
         style="float: left; margin-right: 10px;" />
 </p>
